@@ -13,4 +13,12 @@ ce repo contient les thème suivant :
 
 * Créer une API RESTful à l'aide de Flask et de l'extension Flask-Restful
 
-* Manipuler une base de données à l'aide de Flask-SQLAlchemy et de Flask-Migrate•Envoyer e-mails au format texte brut et HTML à l'aide de l'API Mailgun• Implémentez une fonction de pagination à l'aide de Flask-SQLAlchemy• Utilisez la mise en cache pour améliorer les performances de l'API et obtenir efficacement les dernières informations• Déployez une application sur Heroku et testez-la à l'aide de Postman
+* Manipuler une base de données à l'aide de Flask-SQLAlchemy et de Flask-Migrate
+*
+* Envoyer e-mails au format texte brut et HTML à l'aide de l'API Mailgun
+*
+* Implémentez une fonction de pagination à l'aide de Flask-SQLAlchemy
+
+* Utilisez la mise en cache pour améliorer les performances de l'API et obtenir efficacement les dernières informations
+
+* Déployez une application sur Heroku et testez-la à l'aide de Postman
