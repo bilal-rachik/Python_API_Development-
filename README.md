@@ -14,7 +14,7 @@ ce repo contient les thème suivant :
 * Créer une API RESTful à l'aide de Flask et de l'extension Flask-Restful
 
 * Manipuler une base de données à l'aide de Flask-SQLAlchemy et de Flask-Migrate
-*
+
 * Envoyer e-mails au format texte brut et HTML à l'aide de l'API Mailgun
 
 * Implémentez une fonction de pagination à l'aide de Flask-SQLAlchemy
